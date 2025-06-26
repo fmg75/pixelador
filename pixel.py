@@ -28,7 +28,7 @@ def pixelar_imagen(imagen, factor_pixel=10, bn=False, rotacion=0):
 
 def main():
     st.set_page_config(
-        page_title="🎨 Pixel Art Generator",
+        page_title="Pixelador",
         page_icon="🎨",
         layout="wide",
         initial_sidebar_state="collapsed"
