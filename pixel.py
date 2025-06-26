@@ -69,7 +69,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Título
-    st.markdown("# 🎨 Pixel Art Generator")
+    st.markdown("#Pixelsdor")
     
     # Controles en una fila horizontal
     col_upload, col_rotate, col_pixel, col_bw = st.columns([3, 1, 2, 1])
